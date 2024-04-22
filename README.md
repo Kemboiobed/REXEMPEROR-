@@ -5,7 +5,7 @@
            
 ## _[Update My Repo](https://github.com/KEMBOIOBED /BATMAN-BOT-MD/wiki/FORK-UPDATE)_
 </div>
-  <a href="https://x-md-qr-elctro-wizard.koyeb.app">
+  <a href="https://BATMAN-md-qr-elctro-wizard.koyeb.app">
         <p align="center">
    <img alt="ASWIN SPARKY" height="300" src="https://i.imgur.com/Q2UNwXR.jpg">
               </p>
